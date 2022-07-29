@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "536823483883",
+    "project_id": "zoom-clone-883ca",
+    "storage_bucket": "zoom-clone-883ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536823483883:android:0c141f0af284378e97ddae",
+        "android_client_info": {
+          "package_name": "ms.app.zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536823483883-ffst4dgfdq0olabmlq7t9j053jk735oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ms.app.zoom_clone",
+            "certificate_hash": "cac28c67638723973ebcc4d1818a75e3dd5476ff"
+          }
+        },
+        {
+          "client_id": "536823483883-oq29igddvs62h5fmm7ue4vb28f46mdd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AvU3yp_kJE7ZnZMkzzsTfZCYwvnFy8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536823483883-oq29igddvs62h5fmm7ue4vb28f46mdd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536823483883-bfm234scdb1rrk39cd4a4cnet8ppuclg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ms.app.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
